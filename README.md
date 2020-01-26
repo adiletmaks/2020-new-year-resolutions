@@ -1,10 +1,10 @@
 # 2020-new-year-resolutions
 ## Queue systems
-- [ ] Redis
+- [x] Redis
 - [ ] RabbitMQ
 - [ ] Apache Kafka
 ## NoSQL DB
-- [ ] Redis
+- [x] Redis
 - [ ] Mongo
 - [ ] Tarantool
 ## Async PHP
@@ -13,6 +13,7 @@
 ## Optimized PHP
 - [ ] Roadrunner
 - [ ] Preload (php 7.4)
+- [ ] OPcache
 ## SQL
 - [ ] postgresql
 - [ ] sharding
@@ -29,14 +30,13 @@
 - [ ] ElasticSearch
 ## Langs
 - [ ] Go
-- [x] Node
 ## Debug
-- [x] Xdebug
+- [] Xdebug
 - [ ] xhprof
 - [ ] Zabbix
-- [x] Sentry
+- [ ] Sentry
 ## Code standards
-- [ ] phpcs
+- [x] phpcs
 - [ ] phpstan
 - [ ] PSR 0-17
 ## Additional
