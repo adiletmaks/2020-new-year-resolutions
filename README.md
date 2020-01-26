@@ -41,6 +41,6 @@
 - [ ] PSR 0-17
 ## Additional
 - [ ] CQRS
-- [ ] Event souring
+- [ ] Event sourcing
 - [ ] DDD
 - [ ] SOA
