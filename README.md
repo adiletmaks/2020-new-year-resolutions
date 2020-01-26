@@ -31,7 +31,7 @@
 ## Langs
 - [ ] Go
 ## Debug
-- [] Xdebug
+- [ ] Xdebug
 - [ ] xhprof
 - [ ] Zabbix
 - [ ] Sentry
