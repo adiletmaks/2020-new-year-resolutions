@@ -21,23 +21,23 @@
 ## CI/CD
 - [x] Docker
 - [ ] Jenkins
-- [ ] Gitlab CI
+- [x] Gitlab CI
 ## Logging
-- [ ] Graylog
-- [ ] Grafana
+- [x] Graylog
+- [x] Grafana
 ## Frameworks, Libs
 - [ ] Symfony 4
 - [ ] ElasticSearch
 ## Langs
 - [ ] Go
 ## Debug
-- [ ] Xdebug
+- [x] Xdebug
 - [ ] xhprof
 - [ ] Zabbix
 - [x] Sentry
 ## Code standards
 - [x] phpcs
-- [ ] phpstan
+- [x] phpstan
 - [ ] PSR 0-17
 ## Additional
 - [ ] CQRS
