@@ -1,8 +1,8 @@
 # 2020-new-year-resolutions
 ## Queue systems
 - [x] Redis
-- [ ] RabbitMQ
-- [ ] Apache Kafka
+- [x] RabbitMQ
+- [x] Apache Kafka
 ## NoSQL DB
 - [x] Redis
 - [ ] Mongo
@@ -15,7 +15,7 @@
 - [ ] Preload (php 7.4)
 - [ ] OPcache
 ## SQL
-- [ ] postgresql
+- [x] postgresql
 - [ ] sharding
 - [ ] replication
 ## CI/CD
@@ -23,7 +23,7 @@
 - [ ] Jenkins
 - [ ] Gitlab CI
 ## Logging
-- [ ] Greylog
+- [ ] Graylog
 - [ ] Grafana
 ## Frameworks, Libs
 - [ ] Symfony 4
@@ -34,7 +34,7 @@
 - [ ] Xdebug
 - [ ] xhprof
 - [ ] Zabbix
-- [ ] Sentry
+- [x] Sentry
 ## Code standards
 - [x] phpcs
 - [ ] phpstan
